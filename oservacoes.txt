@@ -13,6 +13,18 @@ git commit: grava no repositorio.
  ex: git commit -m "Criando o projeto"
  
  
+ git log: mostra o historico de mensagens com as descrições.
+ 
+ git whatchanged:  ve com mais detalhes os arquivos.
+ 
+ 
+ git whatchanged -p: ainda vejo com mais detalhes.
+ 
+ 
+ 
+ 
+ usuario adriano-2017
+ senha flamengo12
 
 
 
