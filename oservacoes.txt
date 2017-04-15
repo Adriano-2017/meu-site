@@ -1,11 +1,18 @@
 Git aula 02
 
 git init: controla as pastas, tranforma ela em um repositorio do git.
+
 git ls-file: arquivos controlados pelo git.
+
 git status: mostra o estado atual do repositorio pro git.
-git add: adciono ou modifico no meu repositorio
+
+git add: adciono ou modifico no meu repositorio.
+ ex:  git add oservacoes.txt
 
 git commit: grava no repositorio.
+ ex: git commit -m "Criando o projeto"
+ 
+ 
 
 
 
